@@ -65,11 +65,6 @@ https://cece-e-portfolio.vercel.app/
 
 ---
 
-## 🌸 Fun Section
-
-<img src="[https://media.tenor.com/q6w6KHC6G7wAAAAi/cinnamoroll.gif](https://wallpapers-clan.com/wp-content/uploads/2025/09/cinnamoroll-autumn-cute-coffee-gif-wallpaper-preview.gif)]" width="120">
-<img src="[https://media.tenor.com/x8vH8H0n2iAAAAAi/kuromi.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3e1d9d0-9db0-4f8d-8865-cddb54ea2dae/dis3rkc-741a7a27-767f-4f98-b12c-4a012fa40931.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jM2UxZDlkMC05ZGIwLTRmOGQtODg2NS1jZGRiNTRlYTJkYWUvZGlzM3JrYy03NDFhN2EyNy03NjdmLTRmOTgtYjEyYy00YTAxMmZhNDA5MzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xfGUMzspwtDfPFEdnXk8GQHzeHLtFTIszXmaraROUkQ)]" width="120">
-
 ### 🎧 Currently:
 - Listening to music while coding
 - Designing websites
