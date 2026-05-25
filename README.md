@@ -53,11 +53,8 @@
 ## 🌸 GitHub Stats
 
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=omni">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=omni">
-
 </div>
 
 ---
