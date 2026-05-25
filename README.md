@@ -72,9 +72,5 @@ https://cece-e-portfolio.vercel.app/
 ---
 
 <div align="center">
-
 ### ☁️ Thanks for visiting my profile! ☁️
-
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=ffb6e6&style=for-the-badge">
-
 </div>
