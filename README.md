@@ -50,14 +50,10 @@
 
 ---
 
-## 🌸 GitHub Stats
+## 🌸 Finished Projects
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=omni">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=omni">
-
+https://cece-e.vercel.app/
 </div>
 
 ---
@@ -69,9 +65,8 @@
 
 ---
 
-## 🌸 Fun Section
-
-<img src="https://usagif.com/wp-content/uploads/gify/cinnamoroll-cute-talking-usagif.gif" width="200"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQfy43AzQJ6xOVy7m_bTjr-JyOtN2rEAxHQ&s" width="200">
+## 🌸🌸🌸🌸🌸🌸🌸
+| <img src="https://usagif.com/wp-content/uploads/gify/cinnamoroll-cute-talking-usagif.gif" width="200"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQfy43AzQJ6xOVy7m_bTjr-JyOtN2rEAxHQ&s" width="200"> |
 
 ---
 ### 🎧 Currently:
