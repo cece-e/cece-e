@@ -71,8 +71,8 @@
 
 ## 🌸 Fun Section
 
-<img src="https://media.tenor.com/q6w6KHC6G7wAAAAi/cinnamoroll.gif" width="120">
-<img src="https://media.tenor.com/x8vH8H0n2iAAAAAi/kuromi.gif" width="120">
+<img src="https://usagif.com/wp-content/uploads/gify/cinnamoroll-cute-talking-usagif.gif" width="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQfy43AzQJ6xOVy7m_bTjr-JyOtN2rEAxHQ&s" width="200">
 
 ---
 ### 🎧 Currently:
@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3e1d9d0-9db0-4f8d-8865-cddb54ea2dae/dhj7hfn-842bcc59-b41f-4ef3-888b-dbfc210f4a5c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jM2UxZDlkMC05ZGIwLTRmOGQtODg2NS1jZGRiNTRlYTJkYWUvZGhqN2hmbi04NDJiY2M1OS1iNDFmLTRlZjMtODg4Yi1kYmZjMjEwZjRhNWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Zwj_4t_2ezDeUymimT8Ti5ctcRdNwvb4lZ7nAL3OCx8" width="350">
+ <img src="https://wallpapers-clan.com/wp-content/uploads/2025/09/cinnamoroll-autumn-cute-coffee-gif-wallpaper-preview.gif" width="350">
 </div>
 
 ### ☁️ Thanks for visiting my profile! ☁️
