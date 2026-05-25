@@ -6,7 +6,7 @@
 
 ### ⋆｡˚ ☁︎ ˚｡⋆ Aspiring Full Stack Developer ⋆｡˚ ☁︎ ˚｡⋆
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=22&pause=1000&color=FFB6E6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Learning+Full+Stack+Development;Kuromi+%26+Cinnamoroll+Lover+%F0%9F%92%96">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=22&pause=1000&color=FFB6E6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Learning+Full+Stack+Development">
 
 </div>
 
