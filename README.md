@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3e1d9d0-9db0-4f8d-8865-cddb54ea2dae/dhj7hfn-842bcc59-b41f-4ef3-888b-dbfc210f4a5c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jM2UxZDlkMC05ZGIwLTRmOGQtODg2NS1jZGRiNTRlYTJkYWUvZGhqN2hmbi04NDJiY2M1OS1iNDFmLTRlZjMtODg4Yi1kYmZjMjEwZjRhNWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Zwj_4t_2ezDeUymimT8Ti5ctcRdNwvb4lZ7nAL3OCx8" width="180">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3e1d9d0-9db0-4f8d-8865-cddb54ea2dae/dhj7hfn-842bcc59-b41f-4ef3-888b-dbfc210f4a5c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jM2UxZDlkMC05ZGIwLTRmOGQtODg2NS1jZGRiNTRlYTJkYWUvZGhqN2hmbi04NDJiY2M1OS1iNDFmLTRlZjMtODg4Yi1kYmZjMjEwZjRhNWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Zwj_4t_2ezDeUymimT8Ti5ctcRdNwvb4lZ7nAL3OCx8" width="350">
 
 # 🎀 Cecee's Coding Space ☁️
 
@@ -72,5 +72,6 @@ https://cece-e-portfolio.vercel.app/
 ---
 
 <div align="center">
+  <img src="[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3e1d9d0-9db0-4f8d-8865-cddb54ea2dae/dhj7hfn-842bcc59-b41f-4ef3-888b-dbfc210f4a5c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jM2UxZDlkMC05ZGIwLTRmOGQtODg2NS1jZGRiNTRlYTJkYWUvZGhqN2hmbi04NDJiY2M1OS1iNDFmLTRlZjMtODg4Yi1kYmZjMjEwZjRhNWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Zwj_4t_2ezDeUymimT8Ti5ctcRdNwvb4lZ7nAL3OCx8](https://wallpapers-clan.com/wp-content/uploads/2025/09/cinnamoroll-autumn-cute-coffee-gif-wallpaper-preview.gif)" width="350">
 ### ☁️ Thanks for visiting my profile! ☁️
 </div>
