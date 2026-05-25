@@ -66,7 +66,9 @@ https://cece-e.vercel.app/
 ---
 
 ## 🌸🌸🌸🌸🌸🌸🌸
-| <img src="https://usagif.com/wp-content/uploads/gify/cinnamoroll-cute-talking-usagif.gif" width="200"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQfy43AzQJ6xOVy7m_bTjr-JyOtN2rEAxHQ&s" width="200"> |
+<p align="center">
+ <img src="https://usagif.com/wp-content/uploads/gify/cinnamoroll-cute-talking-usagif.gif" width="200" style="margin-right:20px" />  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQfy43AzQJ6xOVy7m_bTjr-JyOtN2rEAxHQ&s" width="200"/> 
+ </p>
 
 ---
 ### 🎧 Currently:
