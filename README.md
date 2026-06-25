@@ -54,6 +54,10 @@
 
 <div align="center">
 https://cece-e.vercel.app/
+[My Personal Portfolio]
+
+Nicha's Industrial Fan Rentals Automatic Quotation Management System
+[generates quotation from form]
 </div>
 
 ---
