@@ -60,7 +60,7 @@ Nicha's Industrial Fan Rentals Automatic Quotation Management System
 [generates quotation from form]
 
 KOKAK.PH
-[Hackathon Entry (ui/ux)]
+[Hackathon Entry (frontend)]
 </div>
 
 ---
