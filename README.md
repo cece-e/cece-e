@@ -58,7 +58,6 @@ https://cece-e.vercel.app/
 
 Nicha's Industrial Fan Rentals Automatic Quotation Management System
 [generates quotation from form]
-
 KOKAK.PH
 [Hackathon Entry (frontend)]
 </div>
@@ -75,6 +74,7 @@ KOKAK.PH
 ## ☁️ Hackathon Joined
 
 🎀 2025 ACM Techspirnt  ✨1st Runner up✨
+
 ☁️ More soon...
 
 ---
