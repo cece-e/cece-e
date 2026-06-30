@@ -68,7 +68,14 @@ KOKAK.PH
 ## ☁️ Featured Projects
 
 🎀 Portfolio Website  
-☁️ More soon
+☁️ Nicha's Industrial Fan Rentals Automatic Quotation Management System
+
+---
+
+## ☁️ Hackathon Joined
+
+🎀 2025 ACM Techspirnt  ✨1st Runner up✨
+☁️ More soon...
 
 ---
 
