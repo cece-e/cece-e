@@ -58,6 +58,9 @@ https://cece-e.vercel.app/
 
 Nicha's Industrial Fan Rentals Automatic Quotation Management System
 [generates quotation from form]
+
+KOKAK.PH
+[Hackathon Entry (ui/ux)]
 </div>
 
 ---
